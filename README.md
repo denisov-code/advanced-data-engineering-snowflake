@@ -1,4 +1,4 @@
-## Advanced Data Engineering with Snowflake
+-- ## Advanced Data Engineering with Snowflake
 
 #### How to use this repo throughout the course:
 
